@@ -4,7 +4,7 @@
 # 2. Create a variable name second with value 44.3.
 # 3. Print result of adding first to second.
 # 4. Print result of multiplying first by second
-# 5. Print result of dividing second by first
+# 5. Print result of dividing second by first and
 
 first = 7
 second = 44.3
