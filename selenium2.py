@@ -11,4 +11,4 @@ driver.get("https://filebin.net")
 
 driver.find_element_by_class_name("er8xn").send_keys(Keys.ENTER)
 
-#driver.quit()
+driver.quit()
